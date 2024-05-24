@@ -14,6 +14,6 @@ public class MyThread extends Thread{
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println("what？");
+        System.out.println("what？222");
     }
 }
